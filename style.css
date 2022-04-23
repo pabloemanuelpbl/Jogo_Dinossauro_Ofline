@@ -2,6 +2,12 @@ body {
     background-color: #fafafd;
 }
 
+.aperteTab {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+
 .dino {
     background-image: url(imagens/dino.png);
     width: 60px;
